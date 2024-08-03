@@ -11599,7 +11599,7 @@ __metadata:
     remark-emoji: ^2.0.1
     remark-frontmatter: ^2.0.0
     remark-react: ^8.0.0
-    remove-markdown: ^0.3.0
+    remove-markdown: ^0.5.0
     reselect: ^4.0.0
     rss: ^1.2.2
     sass: ^1.29.0
@@ -16046,10 +16046,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remove-markdown@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "remove-markdown@npm:0.3.0"
-  checksum: c3e40122e5057096c04881b8a0bccf41f913e352d106f4debded28bd824daab1d1cda64a67ed6a76064bc0a78d9b6c0feba3f933b44c6ffc50608249524ad2dd
+"remove-markdown@npm:^0.5.0":
+  version: 0.5.2
+  resolution: "remove-markdown@npm:0.5.2"
+  checksum: f3a92a4b1d71f1d0e2594c1b05b2483c1b67af393fdb1b352a90681a04932725cc745448903995b29f9450901ba72acf45d1d725cb329f62f5ac748dbabe99db
   languageName: node
   linkType: hard
 
@@ -18486,7 +18486,7 @@ __metadata:
 
 "typescript@patch:typescript@~4.4.4#~builtin<compat/typescript>":
   version: 4.4.4
-  resolution: "typescript@patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=bda367"
+  resolution: "typescript@patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
